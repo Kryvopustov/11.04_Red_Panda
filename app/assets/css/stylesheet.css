@@ -1,0 +1,42 @@
+.navbar {
+    margin-bottom: 0px;
+}
+.bg-1 {
+    background-color: #F5DEB3;
+}
+.bg-2 {
+    background-color: #F4A460;
+}
+.bg-3 {
+    background-color: #D2B48C;
+}
+.bg-4 {
+    background-color: #FF8247;
+}
+.bg-5 {
+    background-color: #F5DEB3;
+}
+.bg-6 {
+    background-color: black;
+    color: white;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+.bg-5 h1 {
+    margin-top: 0px;
+}
+
+
+.newTextSize {
+    font-size: 60px;
+}
+.newTextColor {
+    color: green;
+}
+.newTextTrough {
+    text-decoration: line-through;
+}
+
